@@ -6,14 +6,23 @@ Executive portfolio showcasing enterprise architecture, business intelligence, A
 
 ---
 
-## Portfolio Contents
+## Portfolio
 
-| File | Description |
-|------|-------------|
-| [`Resume.pdf`](./Resume.pdf) | Current executive resume |
-| [`Executive_Portfolio.pdf`](./Executive_Portfolio.pdf) | Full portfolio — architecture, BI, AI, and platform overview |
-| [`Atrium_Case_Study.pdf`](./Atrium_Case_Study.pdf) | Deep-dive case study: designing a multi-tenant enterprise SaaS platform from the ground up |
-| [`README.md`](./README.md) | This document |
+| | |
+|---|---|
+| [`Executive_Portfolio.pdf`](./Executive_Portfolio.pdf) | Full executive portfolio — BI architecture, AI strategy, Atrium platform, and enterprise architecture |
+
+---
+
+## Navigation
+
+| Repository | What It Covers |
+|-----------|----------------|
+| [atrium-platform](https://github.com/tech49it/atrium-platform) | Platform architecture, capabilities, modules, and roadmap |
+| [business-intelligence](https://github.com/tech49it/business-intelligence) | Data warehouse design, star schema, KPI frameworks, BigQuery analytics |
+| [enterprise-architecture](https://github.com/tech49it/enterprise-architecture) | Cloud architecture, multi-tenant design, RBAC, security models |
+| [ai-business-solutions](https://github.com/tech49it/ai-business-solutions) | AI strategy, workflow automation, prompt engineering |
+| [sql-analytics](https://github.com/tech49it/sql-analytics) | Production SQL — revenue analytics, KPI reporting, vendor scorecards |
 
 ---
 
