@@ -1,8 +1,4 @@
-# Andre C.
-
-**Director of Business Intelligence | Enterprise AI | Data & Revenue Systems**
-
-Executive portfolio showcasing enterprise architecture, business intelligence, AI strategy, operational analytics, and the Atrium platform.
+Executive portfolio featuring enterprise BI, AI strategy, architecture, dashboards, and Atrium case studies.
 
 ---
 
