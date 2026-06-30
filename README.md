@@ -6,7 +6,7 @@ Executive portfolio showcasing enterprise architecture, business intelligence, A
 
 ---
 
-## Portfolio
+## Featured Resources
 
 | | |
 |---|---|
